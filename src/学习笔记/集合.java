@@ -8,7 +8,6 @@ public class 集合 {
 JAVA常用的集合类
 1.List结构的集合类
 2.Map结构的集合类
-随便加了一些
 
 
      */
