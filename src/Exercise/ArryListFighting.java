@@ -8,7 +8,7 @@
 6.可以按照薪水从低到高顺序排序
 7.可以统计员工的平均工资和最低和最高工资
 * */
-package 练习题;
+package Exercise;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
-package 学习笔记;
+package StudyNotes;
 
-public class 集合 {
+public class Set {
     public static void main(String[] args) {
 
     }

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d881e68-f7b3-4d8e-ac0f-aeab784f29f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/学习笔记/test2222.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/学习笔记/testIdea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/学习笔记/换个.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/练习题/ArryListFighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/练习题/ArryListFighting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise/GenericAndReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/学习笔记/集合.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudyNotes/Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/练习题/ArryListFighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise/ArryListFighting.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +19,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/练习题/ArryListFighting.java">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/ArryListFighting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
+                <element signature="e#0#2732#0" expanded="true" />
                 <element signature="e#1420#1421#0" expanded="true" />
                 <element signature="e#1447#1448#0" expanded="true" />
                 <element signature="e#1487#1488#0" expanded="true" />
@@ -43,6 +42,23 @@
                 <element signature="method#showInfo#0;class#empManage#0" />
                 <element signature="method#showAllInfo#0;class#empManage#0" />
                 <element signature="method#setEmpSal#0;class#empManage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Exercise/GenericAndReflection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="e#156#162#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#805#806#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,11 +92,14 @@
         <option value="$PROJECT_DIR$/src/学习笔记/换个.java" />
         <option value="$PROJECT_DIR$/src/学习笔记/集合.java" />
         <option value="$PROJECT_DIR$/src/练习题/ArryListFighting.java" />
+        <option value="$PROJECT_DIR$/src/练习题/Generic.java" />
+        <option value="$PROJECT_DIR$/src/练习题/GenericAndReflection.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/GenericAndReflection.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
@@ -108,20 +127,13 @@
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="学习笔记" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="练习题" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="练习题" type="462c0819:PsiDirectoryNode" />
-              <item name="ArryListFighting.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="StudyNotes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -137,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552981736136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552990010907" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -153,13 +165,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArryListFighting">
+  <component name="RunManager" selected="Application.GenericAndReflection">
     <configuration name="ArryListFighting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="练习题.ArryListFighting" />
+      <option name="MAIN_CLASS_NAME" value="Exercise.ArryListFighting" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="练习题.*" />
+          <option name="PATTERN" value="Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericAndReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.GenericAndReflection" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,9 +205,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArryListFighting" />
+      <item itemvalue="Application.GenericAndReflection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericAndReflection" />
         <item itemvalue="Application.ArryListFighting" />
       </list>
     </recent_temporary>
@@ -199,7 +226,7 @@
       <updated>1552877368952</updated>
       <workItem from="1552877383705" duration="16320000" />
       <workItem from="1552959294625" duration="7017000" />
-      <workItem from="1552975827545" duration="5845000" />
+      <workItem from="1552975827545" duration="10231000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1552967785168</created>
@@ -243,18 +270,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552975651163</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改了管理系统，删除了无相关文件">
+      <created>1552981723293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552981723294</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29182000" />
+    <option name="totallyTimeSpent" value="33568000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49427918" visible="true" weight="0.25037822" />
-      <window_info id="Structure" order="1" sideWeight="0.5057208" side_tool="true" visible="true" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4938575" visible="true" weight="0.25037822" />
+      <window_info id="Structure" order="1" sideWeight="0.5061425" side_tool="true" visible="true" weight="0.25037822" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -262,7 +296,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50276244" side_tool="true" weight="0.24281392" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34460548" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,10 +327,11 @@
     <MESSAGE value="IDEA demo" />
     <MESSAGE value="增加了test2222" />
     <MESSAGE value="增加了换个" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了换个" />
+    <MESSAGE value="修改了管理系统，删除了无相关文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了管理系统，删除了无相关文件" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/学习笔记">
+    <entry file="file://$PROJECT_DIR$/src/StudyNotes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/学习笔记/hhhhh.java" />
@@ -310,7 +345,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/学习笔记/集合.java">
+    <entry file="file://$PROJECT_DIR$/src/StudyNotes/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -328,11 +363,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/练习题/ArryListFighting.java">
+    <entry file="file://$PROJECT_DIR$/src/Exercise/GenericAndReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="e#156#162#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise/ArryListFighting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
+            <element signature="e#0#2732#0" expanded="true" />
             <element signature="e#1420#1421#0" expanded="true" />
             <element signature="e#1447#1448#0" expanded="true" />
             <element signature="e#1487#1488#0" expanded="true" />
