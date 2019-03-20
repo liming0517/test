@@ -1,4 +1,4 @@
-package Exercise;
+package ClassNotes;
 
 import java.lang.reflect.Method;
 

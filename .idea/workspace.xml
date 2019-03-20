@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d881e68-f7b3-4d8e-ac0f-aeab784f29f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercise/GenericAndReflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/学习笔记/集合.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudyNotes/Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/练习题/ArryListFighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise/ArryListFighting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excerise/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/ArryListFighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassNotes/ArryListFighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassNotes/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise/GenericAndReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassNotes/GenericAndReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudyNotes/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excerise/test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,27 +21,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Exercise/ArryListFighting.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClassNotes/ArryListFighting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="684">
+              <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
               <folding>
-                <element signature="e#0#2732#0" expanded="true" />
-                <element signature="e#1420#1421#0" expanded="true" />
-                <element signature="e#1447#1448#0" expanded="true" />
-                <element signature="e#1487#1488#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
-                <element signature="e#1551#1552#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1621#1622#0" expanded="true" />
-                <element signature="e#1655#1656#0" expanded="true" />
-                <element signature="e#1684#1685#0" expanded="true" />
-                <element signature="e#1710#1711#0" expanded="true" />
-                <element signature="e#1747#1748#0" expanded="true" />
-                <element signature="e#1777#1778#0" expanded="true" />
-                <element signature="e#1997#1998#0" expanded="true" />
-                <element signature="e#2033#2034#0" expanded="true" />
                 <element signature="method#showInfo#0;class#empManage#0" />
                 <element signature="method#showAllInfo#0;class#empManage#0" />
                 <element signature="method#setEmpSal#0;class#empManage#0" />
@@ -48,17 +36,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Exercise/GenericAndReflection.java">
+        <entry file="file://$PROJECT_DIR$/src/ClassNotes/GenericAndReflection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="530">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
-                <element signature="e#156#162#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ClassNotes/Exception.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Excerise/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Excerise/test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
                 <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#805#806#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,12 +115,16 @@
         <option value="$PROJECT_DIR$/src/练习题/Generic.java" />
         <option value="$PROJECT_DIR$/src/练习题/GenericAndReflection.java" />
         <option value="$PROJECT_DIR$/src/Exercise/GenericAndReflection.java" />
+        <option value="$PROJECT_DIR$/src/Exercise/Exception.java" />
+        <option value="$PROJECT_DIR$/src/ClassNotes/Exception.java" />
+        <option value="$PROJECT_DIR$/src/Excerise/test1.java" />
+        <option value="$PROJECT_DIR$/src/Excerise/test2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-50" />
+    <option name="y" value="35" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
@@ -110,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,13 +150,13 @@
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassNotes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StudyNotes" type="462c0819:PsiDirectoryNode" />
+              <item name="Excerise" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
@@ -143,13 +166,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552990010907" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553074235009" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -165,13 +189,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericAndReflection">
+  <component name="RunManager" selected="Application.test1">
     <configuration name="ArryListFighting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.ArryListFighting" />
+      <option name="MAIN_CLASS_NAME" value="ClassNotes.ArryListFighting" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="ClassNotes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +204,11 @@
       </method>
     </configuration>
     <configuration name="GenericAndReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.GenericAndReflection" />
+      <option name="MAIN_CLASS_NAME" value="ClassNotes.GenericAndReflection" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.*" />
+          <option name="PATTERN" value="ClassNotes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,13 +226,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excerise.test1" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Excerise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArryListFighting" />
       <item itemvalue="Application.GenericAndReflection" />
+      <item itemvalue="Application.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.GenericAndReflection" />
         <item itemvalue="Application.ArryListFighting" />
       </list>
@@ -226,7 +265,8 @@
       <updated>1552877368952</updated>
       <workItem from="1552877383705" duration="16320000" />
       <workItem from="1552959294625" duration="7017000" />
-      <workItem from="1552975827545" duration="10231000" />
+      <workItem from="1552975827545" duration="10796000" />
+      <workItem from="1553060425640" duration="10975000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1552967785168</created>
@@ -277,27 +317,41 @@
       <option name="project" value="LOCAL" />
       <updated>1552981723294</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="增加了反射和泛型，整理了一下目录名称">
+      <created>1552990058203</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552990058203</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增Exception模块">
+      <created>1553066115152</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553066115153</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33568000" />
+    <option name="totallyTimeSpent" value="45108000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-50" y="35" width="1346" height="698" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4938575" visible="true" weight="0.25037822" />
-      <window_info id="Structure" order="1" sideWeight="0.5061425" side_tool="true" visible="true" weight="0.25037822" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49175823" visible="true" weight="0.26127526" />
+      <window_info id="Structure" order="1" sideWeight="0.5083933" side_tool="true" weight="0.25416037" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50276244" side_tool="true" weight="0.24281392" />
+      <window_info id="Favorites" order="6" sideWeight="0.5082418" side_tool="true" visible="true" weight="0.26127526" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34460548" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398773" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3557522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39784947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -305,8 +359,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007776" side_tool="true" weight="0.32920355" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4992224" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.34460548" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49848714" weight="0.32850242" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,30 +382,18 @@
     <MESSAGE value="增加了test2222" />
     <MESSAGE value="增加了换个" />
     <MESSAGE value="修改了管理系统，删除了无相关文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了管理系统，删除了无相关文件" />
+    <MESSAGE value="增加了反射和泛型，整理了一下目录名称" />
+    <MESSAGE value="新增Exception模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增Exception模块" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StudyNotes">
+    <entry file="file://$PROJECT_DIR$/src/Excerise">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/学习笔记/hhhhh.java" />
     <entry file="file://$PROJECT_DIR$/src/学习笔记/testIdea.java" />
     <entry file="file://$PROJECT_DIR$/src/学习笔记/test2222.java" />
     <entry file="file://$PROJECT_DIR$/src/学习笔记/换个.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="293" column="48" lean-forward="true" selection-start-line="293" selection-start-column="48" selection-end-line="293" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudyNotes/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -363,44 +405,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise/GenericAndReflection.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassNotes/GenericAndReflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="530">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
-            <element signature="e#156#162#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise/ArryListFighting.java">
+    <entry file="file://$PROJECT_DIR$/src/ClassNotes/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="209">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
-            <element signature="e#0#2732#0" expanded="true" />
-            <element signature="e#1420#1421#0" expanded="true" />
-            <element signature="e#1447#1448#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1551#1552#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1621#1622#0" expanded="true" />
-            <element signature="e#1655#1656#0" expanded="true" />
-            <element signature="e#1684#1685#0" expanded="true" />
-            <element signature="e#1710#1711#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-            <element signature="e#1777#1778#0" expanded="true" />
-            <element signature="e#1997#1998#0" expanded="true" />
-            <element signature="e#2033#2034#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="2401" column="18" selection-start-line="2401" selection-start-column="18" selection-end-line="2401" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassNotes/ArryListFighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
             <element signature="method#showInfo#0;class#empManage#0" />
             <element signature="method#showAllInfo#0;class#empManage#0" />
             <element signature="method#setEmpSal#0;class#empManage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excerise/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excerise/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
         </state>
       </provider>
