@@ -1,4 +1,4 @@
-package ClassNotes;
+package com.magene.ClassNotes;
 
 import java.lang.reflect.Method;
 
