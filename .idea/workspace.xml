@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d881e68-f7b3-4d8e-ac0f-aeab784f29f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/magene/Excerise/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/ArryListFighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/ArryListFighting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise/GenericAndReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/GenericAndReflection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudyNotes/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/ArryListFighting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/Gen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/GenericAndReflection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/ClassNotes/empManage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/Excerise/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,33 +30,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/ArryListFighting.java">
+        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
-              <folding>
-                <element signature="method#showInfo#0;class#empManage#0" />
-                <element signature="method#showAllInfo#0;class#empManage#0" />
-                <element signature="method#setEmpSal#0;class#empManage#0" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/GenericAndReflection.java">
+        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/Exception.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="-589">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,27 +51,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="-190">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-526">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="272">
+              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,6 +130,9 @@
         <option value="$PROJECT_DIR$/src/com/magene/Excerise/test1.java" />
         <option value="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_1.java" />
         <option value="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java" />
+        <option value="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_3.java" />
+        <option value="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_4.java" />
+        <option value="$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_5.java" />
       </list>
     </option>
   </component>
@@ -139,8 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,13 +189,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553153677984" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553164297919" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/Git/bin/git.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -203,20 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo_2">
-    <configuration name="ArryListFighting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassNotes.ArryListFighting" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClassNotes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo_5">
     <configuration name="Demo_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.magene.ClassNotes.swing.Demo_1" />
       <module name="workspace" />
@@ -243,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericAndReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassNotes.GenericAndReflection" />
+    <configuration name="Demo_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magene.ClassNotes.swing.Demo_3" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClassNotes.*" />
+          <option name="PATTERN" value="com.magene.ClassNotes.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +253,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excerise.test1" />
+    <configuration name="Demo_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magene.ClassNotes.swing.Demo_4" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Excerise.*" />
+          <option name="PATTERN" value="com.magene.ClassNotes.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.magene.ClassNotes.swing.Demo_5" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.magene.ClassNotes.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArryListFighting" />
-      <item itemvalue="Application.GenericAndReflection" />
-      <item itemvalue="Application.test1" />
       <item itemvalue="Application.Demo_1" />
       <item itemvalue="Application.Demo_2" />
+      <item itemvalue="Application.Demo_3" />
+      <item itemvalue="Application.Demo_4" />
+      <item itemvalue="Application.Demo_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo_5" />
+        <item itemvalue="Application.Demo_4" />
+        <item itemvalue="Application.Demo_3" />
         <item itemvalue="Application.Demo_2" />
         <item itemvalue="Application.Demo_1" />
-        <item itemvalue="Application.test1" />
-        <item itemvalue="Application.GenericAndReflection" />
-        <item itemvalue="Application.ArryListFighting" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +310,8 @@
       <workItem from="1552959294625" duration="7017000" />
       <workItem from="1552975827545" duration="10796000" />
       <workItem from="1553060425640" duration="12371000" />
-      <workItem from="1553134776745" duration="6431000" />
+      <workItem from="1553134776745" duration="8947000" />
+      <workItem from="1553158742354" duration="4959000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1552967785168</created>
@@ -365,17 +376,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553066115153</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="新增Swing">
+      <created>1553153737982</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553153737982</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52935000" />
+    <option name="totallyTimeSpent" value="60410000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4920354" visible="true" weight="0.2579425" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4920354" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" sideWeight="0.5083933" side_tool="true" weight="0.25416037" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,7 +412,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.34460548" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49848714" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49848714" weight="0.32718894" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -418,12 +436,11 @@
     <MESSAGE value="修改了管理系统，删除了无相关文件" />
     <MESSAGE value="增加了反射和泛型，整理了一下目录名称" />
     <MESSAGE value="新增Exception模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增Exception模块" />
+    <MESSAGE value="新增Swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增Swing" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Excerise">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excerise" />
     <entry file="file://$PROJECT_DIR$/src/学习笔记/hhhhh.java" />
     <entry file="file://$PROJECT_DIR$/src/学习笔记/testIdea.java" />
     <entry file="file://$PROJECT_DIR$/src/学习笔记/test2222.java" />
@@ -436,29 +453,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Excerise/test2.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/ArryListFighting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
-          <folding>
-            <element signature="method#showInfo#0;class#empManage#0" />
-            <element signature="method#showAllInfo#0;class#empManage#0" />
-            <element signature="method#setEmpSal#0;class#empManage#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#64#65#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/magene/Excerise/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -466,27 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/GenericAndReflection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/JFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,25 +488,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/GenericAndReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/ArryListFighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <element signature="method#showInfo#0;class#empManage#0" />
+            <element signature="method#showAllInfo#0;class#empManage#0" />
+            <element signature="method#setEmpSal#0;class#empManage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="-589">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/magene/ClassNotes/swing/Demo_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
           </folding>
         </state>
       </provider>
