@@ -18,7 +18,7 @@ import java.awt.*;
  * 6.显示窗体
  */
 public class Demo_2 extends JFrame {
-    JFrame jf= null;
+    JFrame jf;
     int size=5;
     JButton jButton[] = new JButton[size];
 
