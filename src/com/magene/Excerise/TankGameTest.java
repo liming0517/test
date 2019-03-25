@@ -1,4 +1,4 @@
-package TankGme;
+package com.magene.Excerise;
 /**
  * 画直线 drawLine
  * 画矩形边框 drawRect
@@ -17,36 +17,45 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 
-public class MytankGame1 extends JFrame {
+public class TankGameTest extends JFrame {
     MyPanel myPanel = null;
 
-    public MytankGame1() {
+    public TankGameTest() {
         myPanel = new MyPanel();
         this.add(myPanel);
         this.addKeyListener(myPanel);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocation(300, 300);
-        this.setSize(300, 450);
+        this.setSize(300, 300);
         this.setTitle("坦克大战");
         this.setVisible(true);
     }
 
     public static void main(String[] args) {
 
-        MytankGame1 mytankgame = new MytankGame1();
+        TankGameTest mytankgame = new TankGameTest();
     }
 }
 
 class MyPanel extends JPanel implements KeyListener {
     MyTank mytank = null;
+    //坦克横坐标
+    int x = 100;
+    //坦克纵坐标
+    int y = 100;
+    //坦克方向 0-->上；1-->下；2-->左；3-->右;
+    int direct = 0;
+    //坦克类型 0-->红色；1 蓝色 ；2 黄色
+    int type = 2;
+
     public MyPanel() {
-        mytank = new MyTank(150, 350);
+        mytank = new MyTank(x, y);
     }
 
     public void paint(Graphics g) {
         super.paint(g);
         this.setBackground(Color.GRAY);
-        drawTank(this.mytank.getX(), this.mytank.getY(), g, this.mytank.direct, this.mytank.type);
+        drawTank(x, y, g, direct, type);
 
     }
 
@@ -145,18 +154,18 @@ class MyPanel extends JPanel implements KeyListener {
 
     @Override
     public void keyPressed(KeyEvent e) {
-        if (e.getKeyCode() == KeyEvent.VK_UP ||e.getKeyCode() == KeyEvent.VK_W ) {
-            this.mytank.direct = 0;
-            this.mytank.moveUp();
-        } else if (e.getKeyCode() == KeyEvent.VK_DOWN||e.getKeyCode() == KeyEvent.VK_S) {
-            this.mytank.direct = 1;
-            this.mytank.moveDown();
-        } else if (e.getKeyCode() == KeyEvent.VK_LEFT||e.getKeyCode() == KeyEvent.VK_A) {
-            this.mytank.direct = 2;
-            this.mytank.moveLeft();
-        } else if (e.getKeyCode() == KeyEvent.VK_RIGHT||e.getKeyCode() == KeyEvent.VK_D) {
-            this.mytank.direct = 3;
-            this.mytank.moveRight();
+        if (e.getKeyCode() == KeyEvent.VK_UP) {
+            direct = 0;
+            y--;
+        } else if (e.getKeyCode() == KeyEvent.VK_DOWN) {
+            direct = 1;
+            y++;
+        } else if (e.getKeyCode() == KeyEvent.VK_LEFT) {
+            direct = 2;
+            x--;
+        } else if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
+            direct = 3;
+            x++;
         }
         this.repaint();
     }
@@ -167,4 +176,34 @@ class MyPanel extends JPanel implements KeyListener {
     }
 }
 
+class Tank {
+    public int getX() {
+        return x;
+    }
 
+    public void setX(int x) {
+        this.x = x;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+    int x = 0;
+    int y = 0;
+
+    public Tank(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+}
+
+class MyTank extends Tank {
+    public MyTank(int x, int y) {
+        super(x, y);
+    }
+}
